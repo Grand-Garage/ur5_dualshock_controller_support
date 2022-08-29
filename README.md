@@ -13,7 +13,7 @@ This python script directly communicates with ROS2 by using the moveit2 extensio
 <img src="./moveit2.png" width="300">
 </p>
 
-| Software / Package | Description / Link                                                                                  |
+| Package | Link                                                                                  |
 |--------------------| ------------------------------------------------------------------------------------- |
 | Moveit2            | https://moveit.picknik.ai/humble/index.html                                                 |
 | ROS2 Galactic      | https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html                                    |
