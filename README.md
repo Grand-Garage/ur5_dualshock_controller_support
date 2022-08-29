@@ -3,10 +3,10 @@
 </p>
 
 
-# GrandGarage - UR5 Dualshock Controller Support
+# UR5 - Dualshock Controller Support
 
-Control your universal robot directly via a Dualshop Game Controller (tested with PS4 game controller).<br>
-This python script directly communicates with ROS2 by using the moveit2 extension. You can also control robotiq grippers.
+Control your universal robot directly via a Dualshok Controller (tested with PS4 game controller).<br>
+This python script directly communicates with ROS2 by using the moveit2 extension. You can also control the [Hand-e gripper from Robotiq](https://robotiq.com/de/produkte/adaptiver-2-finger-robotergreifer-hand-e).
 
 <br>
 <p align="center">
